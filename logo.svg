@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Happ АнтиРКН">
+  <rect width="64" height="64" rx="16" fill="#0A0A0B"/>
+  <path d="M32 10L48 18V32C48 42 40.5 49.5 32 54C23.5 49.5 16 42 16 32V18L32 10Z" stroke="#C8FF00" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 31L30 37L42 25" stroke="#C8FF00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M32 22V28" stroke="#F5F5F7" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="32" cy="19" r="2" fill="#C8FF00"/>
+</svg>
